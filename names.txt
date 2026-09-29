@@ -1,2 +1,3 @@
 boss,whoover,Hoover,Will
 employee,mao84,Mao,Yuheng
+role,NetID,LastName,FirstName
